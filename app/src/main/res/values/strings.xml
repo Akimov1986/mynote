@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">My Note</string>
+    <string name="app_name">My Notes</string>
+
+    <string name="birthday">День рождения</string>
+    <string name="meeting">Встреча</string>
+    <string name="party">Вечеринка</string>
+    <string name="credit">Погашение кредита</string>
+    <string name="exam">Экзамен</string>
+    <string name="haircut">Стрижка</string>
+
+    <string name="stas_birth">День рождения у Стаса на базе отдыха в 16:00.</string>
+    <string name="meet_jbs">Встреча по работе в кафе в 12:00.</string>
+    <string name="party_club">Вечеринка корпоратив в клубе в 19:00</string>
+    <string name="cred_bank">Погашение кредита в банке сумма 15т.р.</string>
+    <string name="ex_driv">Экзамен по теории и вождению авто в 08:00</string>
+    <string name="hair_brs">Стрижка в парикмахерской в 14:00</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
